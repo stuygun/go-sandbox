@@ -1,0 +1,1 @@
+text from ioutil_file_in.txt
